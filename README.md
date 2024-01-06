@@ -1,2 +1,2 @@
 # Hello Git
-# Proyecto de aprendizaje de Git
+## Proyecto de aprendizaje de Git
